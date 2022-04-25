@@ -1,0 +1,14 @@
+/* welcome font */
+.font-family1 {
+    font-family: 'Righteous', cursive;
+    font-size: 12px;
+    font-weight: bold;
+}
+/* list font */
+.font-family2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 14px;
+    padding-left: 400px;
+    color: black;
+}
+
